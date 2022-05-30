@@ -1,0 +1,100 @@
+id: IFC4FA4F4
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T04:55:21.987044'
+last_modified: '2022-05-31T04:55:21.987135'
+parser: null
+source_metadata:
+  title: Khenpo Shenpen Nangwa Series
+  language: en
+  description: 'Texts by and about the great scholar Khenpo Shenpen Nangwa (gzhan
+    phan snang ba, 1871–1927) better known as Khenpo Shenga (mkhan po gzhan dga''):'
+  volume:
+    f660A:
+      title: Advice on Yidam Practice
+      base_file: f660A.txt
+      order: 1
+      parent: Advice
+    f5564:
+      title: Concise Middle Way Aspiration
+      base_file: f5564.txt
+      order: 2
+      parent: Aspiration Prayers
+    fA8C5:
+      title: Middle Way Aspiration
+      base_file: fA8C5.txt
+      order: 3
+      parent: Aspiration Prayers
+    f2721:
+      title: 'Light on the Path of Liberation: The Life of the Second Buddha Vasubandhu'
+      base_file: f2721.txt
+      order: 4
+      parent: Biography
+    fCA6E:
+      title: On the Yogācāra Treatises and Buddha Nature
+      base_file: fCA6E.txt
+      order: 5
+      parent: Buddhist Philosophy
+    fA74B:
+      title: Prologue to Abhisamayālaṃkāra Commentary
+      base_file: fA74B.txt
+      order: 6
+      parent: Commentaries
+    f3A9B:
+      title: Prologue to Introduction to the Middle Way (Madhyamakāvatāra)
+      base_file: f3A9B.txt
+      order: 7
+      parent: Commentaries
+    fEDC9:
+      title: The Three Noble Principles
+      base_file: fEDC9.txt
+      order: 8
+      parent: Commentaries
+    fB745:
+      title: In This Pure Awareness
+      base_file: fB745.txt
+      order: 9
+      parent: Dzogchen
+    f7744:
+      title: Types of Spiritual Song
+      base_file: f7744.txt
+      order: 10
+      parent: Miscellaneous
+    f0533:
+      title: Notes from Miscellaneous Writings
+      base_file: f0533.txt
+      order: 11
+      parent: Notes
+    f5D7A:
+      title: In Praise of Longchenpa – The Greatness of the Omniscient Longchen Rabjam
+      base_file: f5D7A.txt
+      order: 12
+      parent: Praise
+    fC77B:
+      title: Praise of Candrakīrti
+      base_file: fC77B.txt
+      order: 13
+      parent: Praise
+    f4C0B:
+      title: Prayer to Invoke the Wisdom Mind of the Gentle Protector Sakya Paṇḍita
+      base_file: f4C0B.txt
+      order: 14
+      parent: Prayers
+    f2A99:
+      title: A Song of Prayer to Jamyang Loter Wangpo
+      base_file: f2A99.txt
+      order: 15
+      parent: Songs
+    f6AE4:
+      title: 'Divine Music: Words of Encouragement for the Authentic Path'
+      base_file: f6AE4.txt
+      order: 16
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
